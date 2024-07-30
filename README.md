@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabamarqarashvili" alt="sabamarqarashvili" /></a> </p>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on: **Projects**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning: **Javascript**
 
-- 👯 I’m looking to collaborate on **Startups**
+- 👯 I’m looking to collaborate on: **Startups**
 
-- 🤝 I’m looking for help with **Job**
+- 🤝 I’m looking for help with: **Job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabaMarqarashvili](https://github.com/SabaMarqarashvili)
 
 - 📝 I regularly write articles on [not yet.](not yet.)
 
-- 📫 How to reach me **sababussines89@gmail.com**
+- 📫 How to reach me: **sababussines89@gmail.com**
 
-- 📄 Know about my experiences [not yet.](not yet.)
+- 📄 Know about my experiences: [not yet.](not yet.)
 
-- ⚡ Fun fact **no fun fact lel.**
+- ⚡ Fun fact: **no fun fact lel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
