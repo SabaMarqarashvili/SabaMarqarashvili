@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sababussines89@gmail.com**
 
-- 📄 Know about my experiences [not yet.](not yet.)
+- 📄 Know about my experiences: **Work on javascript right now**
 
 - ⚡ Fun fact **no fun fact lel.**
 
