@@ -5,26 +5,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabamarqarashvili" alt="sabamarqarashvili" /></a> </p>
 
-- 🔭 I’m currently working on: **Projects**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning: **Javascript**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on: **Startups**
+- 👯 I’m looking to collaborate on **Startups**
 
-- 🤝 I’m looking for help with: **Job**
+- 🤝 I’m looking for help with **Job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabaMarqarashvili](https://github.com/SabaMarqarashvili)
 
 - 📝 I regularly write articles on [not yet.](not yet.)
 
-- 📫 How to reach me: **sababussines89@gmail.com**
+- 📫 How to reach me **sababussines89@gmail.com**
 
-- 📄 Know about my experiences: [not yet.](not yet.)
+- 📄 Know about my experiences [not yet.](not yet.)
 
-- ⚡ Fun fact: **no fun fact lel.**
+- ⚡ Fun fact **no fun fact lel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/sabamarkarashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sabamarkarashvili" height="30" width="40" /></a>
 <a href="https://twitter.com/sabamarkkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabamarkkara" height="30" width="40" /></a>
 <a href="https://fb.com/saba.marqarashvili.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saba.marqarashvili.7" height="30" width="40" /></a>
 </p>
