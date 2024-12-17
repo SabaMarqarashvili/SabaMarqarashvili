@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript, Angular, TS**
 
-- 👨‍💻 All of my projects are available at [notYet](notYet)
-
 - 📫 How to reach me **sabamarkkarashvili@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
